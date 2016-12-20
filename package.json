@@ -1,0 +1,9 @@
+{
+  "name": "RMC-Map-Server",
+  "version": "1.0.0",
+  "description": "The map server for the RMC Map Plugin",
+  "main": "index.js",
+  "repository": "https://github.com/RMC-Map/Server",
+  "author": "Noim <nilsbergmann@noim.io>, dunklesToast <tomnik104@yahoo.de>",
+  "license": "GPL-3.0"
+}
